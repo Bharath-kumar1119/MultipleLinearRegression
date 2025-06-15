@@ -2,10 +2,6 @@
 
 This repository contains a practical implementation of **Multiple Linear Regression** using Python and Scikit-learn.
 
-# 📊 Multiple Linear Regression
-
-This repository contains a practical implementation of **Multiple Linear Regression** using Python and Scikit-learn.
-
 # 📚 Topics Covered
 
 - What is Multiple Linear Regression?
